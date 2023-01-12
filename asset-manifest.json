@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlekseyAD/ra16-1.3-props-films/static/css/main.94310064.css",
+    "main.js": "/AlekseyAD/ra16-1.3-props-films/static/js/main.d1a537ba.js",
+    "static/js/787.442f7390.chunk.js": "/AlekseyAD/ra16-1.3-props-films/static/js/787.442f7390.chunk.js",
+    "index.html": "/AlekseyAD/ra16-1.3-props-films/index.html",
+    "main.94310064.css.map": "/AlekseyAD/ra16-1.3-props-films/static/css/main.94310064.css.map",
+    "main.d1a537ba.js.map": "/AlekseyAD/ra16-1.3-props-films/static/js/main.d1a537ba.js.map",
+    "787.442f7390.chunk.js.map": "/AlekseyAD/ra16-1.3-props-films/static/js/787.442f7390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94310064.css",
+    "static/js/main.d1a537ba.js"
+  ]
+}
